@@ -1,0 +1,2 @@
+# Attendence-Management-System
+The student attendance management system project used to maintain school students attendance records. The attendance project has three user module for run the system Admin, Staff and Student. Initially the system will be blank, The Administrator has a rights to create standard and classroom for school and same time he has to add staff detail. Administrator generates unique username and password for all staff while adding staff detail. All staff maintain attendance of student, generate reports month wise, date wise
